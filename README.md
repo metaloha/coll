@@ -2,6 +2,8 @@
 
 _SHA256 Collision Finder_
 
+![image](https://user-images.githubusercontent.com/6520433/148701593-0a0c92ae-51b7-4d1c-a2b5-3c57b78f23a7.png)
+
 ## What's This?
 
 I was curious how long it might take to find a collision for an SHA256 hash created from an arbitrary file on my computer (a 20MB PDF in this case). I don't care about making a file that still works, or about matching the size of the existing file, simply about how long it would take to create a sequence of bytes that would result in the same hash.
